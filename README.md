@@ -165,5 +165,5 @@ This includes:
 
 ## ❤️ Credits
 
-Made with ❤️ by **Sushovan Barik**
+Made with ❤️ by **Aratrika Samanta**
 📧 Feedback welcome!
